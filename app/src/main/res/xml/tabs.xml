@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+    <tabs>
+
+    <tab text="@string/home" drawable="@drawable/home"/>
+
+    <tab text="@string/add" drawable="@drawable/game"/>
+
+    <tab text="@string/requirement" drawable="@drawable/grp"/>
+
+    <tab text="@string/notification" drawable="@drawable/notification"/>
+
+    <tab text="@string/profile" drawable="@drawable/person"/>
+
+</tabs>
